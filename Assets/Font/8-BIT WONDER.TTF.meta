@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 792e6a10cc323704589021325a2b59d8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 8BIT WONDER
+  fontNames:
+  - 8BIT WONDER
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a6232c319d5b1be4f95ea1f994508ace, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
